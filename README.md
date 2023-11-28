@@ -1,5 +1,4 @@
 [![Python check](https://github.com/timkrebs9/SannaGPT/actions/workflows/python-test.yaml/badge.svg)](https://github.com/timkrebs9/SannaGPT/actions/workflows/python-test.yaml)
-
 [![Validate AZD template](https://github.com/timkrebs9/SannaGPT/actions/workflows/azure-dev-validation.yaml/badge.svg)](https://github.com/timkrebs9/SannaGPT/actions/workflows/azure-dev-validation.yaml)
 ---
 name: ChatGPT + Enterprise data
